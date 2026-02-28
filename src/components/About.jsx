@@ -6,7 +6,7 @@ const About = () => {
             <div className="container about-container">
                 <div className="about-image">
                     <img
-                        src="https://images.unsplash.com/photo-1521590832167-7bfcfaa6362f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                        src="https://i.ibb.co/whQTyXD4/712vo-SOZU6-L-AC-UF894-1000-QL80.jpg"
                         alt="Interior of Elegance Beauty Salon"
                     />
                 </div>
