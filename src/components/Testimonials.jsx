@@ -2,9 +2,9 @@ import React from 'react';
 
 const testimonialsData = [
     {
-        name: "Sarah Jenkins",
+        name: "sahana karpoor",
         text: "The stylists here are absolute magicians! I came in for a completely new look and they exceeded my expectations. The atmosphere is so relaxing.",
-        rating: 5,
+        rating: 9,
         role: "Regular Client"
     },
     {
